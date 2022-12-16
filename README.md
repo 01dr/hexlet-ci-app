@@ -1,4 +1,4 @@
-![example workflow](https://github.com/01dr/hexlet-ci-app/actions/workflows/ling&test.yml/badge.svg)
+![example workflow](https://github.com/01dr/hexlet-ci-app/actions/workflows/test.yml/badge.svg) ![example workflow](https://github.com/01dr/hexlet-ci-app/actions/workflows/snyk.yml/badge.svg)
 
 # Example app for CI Hexlet course
 
